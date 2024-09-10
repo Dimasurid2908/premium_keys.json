@@ -1,7 +1,20 @@
 {
-  "validPremiumKeys": [
-    "aB7cD9Ef2GhIjK1LmNoPqR8sTuVwXy34Z",
-    "Xk9Lm2Np3QrStUv4WxYz5Ab6CdEfGhIj",
-    "7JkLmN8pQrStU1vWxYz2AbCd3EfGh4Ij"
-  ]
+  "validPremiumKeys": {
+    "permanent": [
+      "aB7cD9Ef2GhIjK1LmNoPqR8sTuVwXy34Z",
+      "Xk9Lm2Np3QrStUv4WxYz5Ab6CdEfGhIj"
+    ],
+    "monthly": [
+      "7JkLmN8pQrStU1vWxYz2AbCd3EfGh4Ij",
+      "Qw3Er5Ty7UiOp1AsDfGhJkL9ZxCvBnMm"
+    ],
+    "biweekly": [
+      "2WsXdCrFvTgByHnUjMiKoLpP0ZaQwE4R",
+      "8IkJhGfDsA1PoLkJhGfDsA2WsXdCrFvT"
+    ],
+    "weekly": [
+      "3EdCvBnMlKjHgFdSa4PoIuYtReWq9Wx0",
+      "5TgByHnUjMiKoLpZaQwE4R7IkJhGfDs"
+    ]
+  }
 }
