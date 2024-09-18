@@ -1,20 +1,20 @@
 {
   "validPremiumKeys": {
     "permanent": [
-      "aB7cD9Ef2GhIjK1LmNoPqR8sTuVwXy34Z",
-      "Xk9Lm2Np3QrStUv4WxYz5Ab6CdEfGhIj"
+      { "key": "aB7cD9Ef2GhIjK1LmNoPqR8sTuVwXy34Z", "status": true },
+      { "key": "Xk9Lm2Np3QrStUv4WxYz5Ab6CdEfGhIj", "status": false }
     ],
     "monthly": [
-      "7JkLmN8pQrStU1vWxYz2AbCd3EfGh4Ij",
-      "Qw3Er5Ty7UiOp1AsDfGhJkL9ZxCvBnMm"
+      { "key": "7JkLmN8pQrStU1vWxYz2AbCd3EfGh4Ij", "status": true },
+      { "key": "Qw3Er5Ty7UiOp1AsDfGhJkL9ZxCvBnMm", "status": false }
     ],
     "biweekly": [
-      "2WsXdCrFvTgByHnUjMiKoLpP0ZaQwE4R",
-      "8IkJhGfDsA1PoLkJhGfDsA2WsXdCrFvT"
+      { "key": "2WsXdCrFvTgByHnUjMiKoLpP0ZaQwE4R", "status": true },
+      { "key": "8IkJhGfDsA1PoLkJhGfDsA2WsXdCrFvT", "status": false }
     ],
     "weekly": [
-      "9EdCvBnMlKjHgFdSa4PoIuYtReWq9Wx6",
-      "5TgByHnUjMiKoLpZaQwE4R7IkJhGfDs"
+      { "key": "9EdCvBnMlKjHgFdSa4PoIuYtReWq9Wx6", "status": true },
+      { "key": "5TgByHnUjMiKoLpZaQwE4R7IkJhGfDs", "status": false }
     ]
   }
 }
