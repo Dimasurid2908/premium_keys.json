@@ -14,7 +14,7 @@
     ],
     "weekly": [
       { "key": "9EdCvBnMlKjHgFdSa4PoIuYtReWq9Wx6", "status": false },
-      { "key": "5TgByHnUjMiKoLpZaQwE4R7IkJhGfDs", "status": false }
+      { "key": "5TgByHnUjMiKoLpZaQwE4R7IkJhGfDs", "status": true }
     ]
   }
 }
